@@ -14,6 +14,7 @@ public class mojMain {
 		System.out.println(d.get(0));
 		
 		b.set(0, 'f');
+		System.out.println("dupaa");
 		System.out.println(c.get(0));
 		System.out.println(d.get(0));
 		
