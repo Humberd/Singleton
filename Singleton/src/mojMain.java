@@ -14,7 +14,7 @@ public class mojMain {
 		System.out.println(d.get(0));
 		
 		b.set(0, 'f');
-		System.out.println("zaladzii");
+		System.out.println("kij ci w oko");
 		System.out.println(c.get(0));
 		System.out.println(d.get(0));
 		
